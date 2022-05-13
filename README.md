@@ -19,3 +19,7 @@
 
 #### [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/abs/2204.06125) [April 2022] by Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen
 - 'DALL-E 2' paper from OpenAI
+
+#### [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741) [March 2022] by Alex Nichol, Prafulla Dhariwal, Aditya Ramesh, Pranav Shyam, Pamela Mishkin, Bob McGrew, Ilya Sutskever, Mark Chen
+- [Video Explanation A](https://www.youtube.com/watch?v=lvv4N2nf-HU&ab_channel=TheAIEpiphany)
+- [Video Explanation B](https://www.youtube.com/watch?v=gwI6g1pBD84&ab_channel=YannicKilcher) by Yannic Kilcher
