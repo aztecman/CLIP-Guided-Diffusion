@@ -27,12 +27,13 @@
 
 ### Next, Let's look at some colab notebooks that use CLIP guided diffusion:
 
-#### [Disco Diffusion](https://github.com/alembics/disco-diffusion)
-- Open Source, major contributers include: [Somnai](https://twitter.com/somnai_dreams), [Gandamu](https://twitter.com/gandamu_ml), others [todo, fill this in]
+#### Note, these are based on Katherine Crowson's original notebook, which circulated on twitter and took on various branches
+
+#### [Disco Diffusion](https://github.com/alembics/disco-diffusion) major contributers include: [Somnai](https://twitter.com/somnai_dreams), [Gandamu](https://twitter.com/gandamu_ml), others [todo, fill this in]
+
 - [Centipede Diffusion](https://github.com/Zalring/Centipede_Diffusion)
 
-#### [JAX v2.7](https://colab.research.google.com/drive/1hcDA5skuzk2IoC0wkQam4i-5k7c7iR1T?usp=sharing)
-- Contributers include: Nshepperd, Huemin
+#### [JAX v2.7](https://colab.research.google.com/drive/1hcDA5skuzk2IoC0wkQam4i-5k7c7iR1T?usp=sharing) Contributers include: Nshepperd, Huemin
 
 #### [PYTTI](https://pytti-tools.github.io/pytti-book/intro.html)
 
