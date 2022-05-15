@@ -1,6 +1,19 @@
 # CLIP-Guided-Diffusion
 ## This is a collection of resources related to generating art with CLIP Guided Diffusion and related technologies
-### For starters, Let's look at some academic papers.
+
+### Colab notebooks that use CLIP Guided Diffusion:
+
+#### Note, these are based on Katherine Crowson's original notebook, which circulated on twitter and took on various branches
+
+#### [Disco Diffusion](https://github.com/alembics/disco-diffusion) major contributers include: [Somnai](https://twitter.com/somnai_dreams), [Gandamu](https://twitter.com/gandamu_ml), others [todo, fill this in]
+
+- [Centipede Diffusion](https://github.com/Zalring/Centipede_Diffusion)
+
+#### [JAX v2.7](https://colab.research.google.com/drive/1hcDA5skuzk2IoC0wkQam4i-5k7c7iR1T?usp=sharing) Contributers include: Nshepperd, Huemin
+
+#### [PYTTI](https://pytti-tools.github.io/pytti-book/intro.html)
+
+### Academic Papers:
 
 #### [A Connection Between Score Matching and Denoising Autoencoders](http://www.iro.umontreal.ca/~vincentp/Publications/smdae_techreport.pdf) [December 2010] by Pascal Vincent
 #### [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) [July 2019] by Yang Song, Stefano Ermon
@@ -24,16 +37,3 @@
 #### [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741) [March 2022] by Alex Nichol, Prafulla Dhariwal, Aditya Ramesh, Pranav Shyam, Pamela Mishkin, Bob McGrew, Ilya Sutskever, Mark Chen
 - [Video Explanation A](https://www.youtube.com/watch?v=lvv4N2nf-HU&ab_channel=TheAIEpiphany) by 'The AI Epiphany'
 - [Video Explanation B](https://www.youtube.com/watch?v=gwI6g1pBD84&ab_channel=YannicKilcher) by Yannic Kilcher
-
-### Next, Let's look at some colab notebooks that use CLIP guided diffusion:
-
-#### Note, these are based on Katherine Crowson's original notebook, which circulated on twitter and took on various branches
-
-#### [Disco Diffusion](https://github.com/alembics/disco-diffusion) major contributers include: [Somnai](https://twitter.com/somnai_dreams), [Gandamu](https://twitter.com/gandamu_ml), others [todo, fill this in]
-
-- [Centipede Diffusion](https://github.com/Zalring/Centipede_Diffusion)
-
-#### [JAX v2.7](https://colab.research.google.com/drive/1hcDA5skuzk2IoC0wkQam4i-5k7c7iR1T?usp=sharing) Contributers include: Nshepperd, Huemin
-
-#### [PYTTI](https://pytti-tools.github.io/pytti-book/intro.html)
-
