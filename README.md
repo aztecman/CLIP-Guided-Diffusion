@@ -1,5 +1,5 @@
 # CLIP-Guided-Diffusion
-## This is a collection of resources related to generating art with CLIP Guided Diffusion (and related technologies)
+## This is a collection of resources related to generating art with CLIP Guided Diffusion
 
 ### Colab notebooks that use CLIP Guided Diffusion:
 
