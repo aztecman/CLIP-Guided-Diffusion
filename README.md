@@ -26,7 +26,9 @@
 
 #### [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) [February 2021] by Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever (OpenAI)
 - [Github page for CLIP](https://github.com/OpenAI/CLIP)
-- [Video Explanation](https://www.youtube.com/watch?v=T9XSU0pKX2E&ab_channel=YannicKilcher) by Yannic Kilcher
+- [Video Explanation A](https://www.youtube.com/watch?v=T9XSU0pKX2E&ab_channel=YannicKilcher) by Yannic Kilcher
+- [Video Explanation B](https://www.youtube.com/watch?v=fQyHEXZB-nM&t=7s) by 'The AI Epiphany'
+- [Code Along Video (inference)](https://www.youtube.com/watch?v=jwZQD0Cqz4o) by 'The AI Epiphany'
 
 #### [Diffusion Models beats GANs on Image Synthesis](https://arxiv.org/abs/2105.05233) [May 2021] by Prafulla Dhariwal, Alex Nichol
 - [Video Explanation](https://www.youtube.com/watch?v=W-O7AZNzbzQ&ab_channel=YannicKilcher) by Yannic Kilcher
